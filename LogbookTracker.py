@@ -17,6 +17,10 @@ from collections import OrderedDict
 from datetime import date as dt_date, timedelta
 import numpy as np
 
+
+"""
+TEST
+"""
 climber_tracker = ClimberManager()
 
 climber = climber_tracker.get_climber('Alistair Lee')
